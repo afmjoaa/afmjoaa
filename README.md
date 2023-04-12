@@ -2,6 +2,9 @@
 
 #### I'm a Self-taught programmer. Great fan of singularity, and do believe that automation is the future. Love to learn new tech stacks and trek mountains. Always try to enjoy the small things in life rather than saving up for later.
 
+[//]: # (![afmjoaa's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=afmjoaa&show_icons=false&theme=transparent&#41;)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afmjoaa&langs_count=10&&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 <h2>Interested job titles</h2>
 <ul>
   <li>Software engineer</li>
@@ -144,6 +147,31 @@
   <li>Model-View-Controller (MVC)</li>
   <li>Builder Pattern</li>
   <li>Factory Pattern</li>
+</ul>
+
+<h2>Programming Paradigm</h2>
+<ul>
+  <li>Object Oriented Programming</li>
+  <li>Aspect Oriented Programming</li>
+  <li>Functional Programming</li>
+  <li>Reactive Programming</li>
+  <li>Concurrent Programming</li>
+</ul>
+
+<h2>Programming Languages</h2>
+<ul>
+  <li>Java</li>
+  <li>Kotlin</li>
+  <li>C</li>
+  <li>C#</li>
+  <li>Dart</li>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+  <li>Python</li>
+  <li>Bash</li>
+  <li>JSON Schema</li>
+  <li>Golang</li>
+  <li>Ruby</li>
 </ul>
 
 <h2>Advanced Courses Completed</h2>
