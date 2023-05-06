@@ -3,7 +3,7 @@
 #### I'm a Self-taught programmer. Great fan of singularity, and do believe that automation is the future. Love to learn new tech stacks and trek mountains. Always try to enjoy the small things in life rather than saving up for later.
 
 [//]: # (![afmjoaa's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=afmjoaa&show_icons=false&theme=transparent&#41;)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afmjoaa&langs_count=10&&hide_progress=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afmjoaa&langs_count=10&&hide_progress=true&theme=transparent&hide=CMake,HTML,C,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
 
 <h2>Interested job titles</h2>
 <ul>
