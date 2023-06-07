@@ -1,9 +1,15 @@
 ### Hi there, I'm Joaa - aka [afmjoaa][website] 👋
 
-#### I'm a Self-taught programmer. Great fan of singularity, and do believe that automation is the future. Love to learn new tech stacks and trek mountains. Always try to enjoy the small things in life rather than saving up for later.
+#### I'm a self-taught programmer. Great fan of singularity, and do believe that automation is the future. Love to learn new tech stacks and trek mountains. Always try to enjoy the small things in life rather than saving up for later.
 
 [//]: # (![afmjoaa's GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=afmjoaa&show_icons=false&theme=transparent&#41;)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afmjoaa&langs_count=10&&hide_progress=true&theme=transparent&hide=CMake,HTML,C,Batchfile)](https://github.com/anuraghazra/github-readme-stats)
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=afmjoaa&langs_count=10&&hide_progress=true&theme=transparent&hide=CMake,HTML,C,Batchfile&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+<h2>GitHub data</h2>
+<div align="left">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=afmjoaa&theme=transparent&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afmjoaa&theme=transparent" alt="afmjoaa" />
+  <img align="center" width="496" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afmjoaa&layout=donut&langs_count=10&theme=transparent&hide=CMake,HTML,Batchfile,CSS" />
+</div>
 
 <h2>Interested job titles</h2>
 <ul>
